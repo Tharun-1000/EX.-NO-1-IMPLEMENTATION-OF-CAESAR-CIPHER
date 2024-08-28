@@ -17,6 +17,7 @@ STEP-5: Display the cipher text obtained above.
 
 ## PROGRAM:
 
+```
 #include <stdio.h>
 #include <string.h>
 
@@ -70,8 +71,12 @@ int main() {
     
     return 0;
 }
-
+```
 ## OUTPUT:
+
+![361894210-7a133f55-0c8c-4b82-bd8b-371ae9e9bc99](https://github.com/user-attachments/assets/accb2a62-ed83-42b8-853c-62c10d3765b1)
+
+
 
 ## RESULT :
  Thus the implementation of ceasar cipher had been executed successfully.
